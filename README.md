@@ -1,16 +1,16 @@
-# SINAJI TECHNOLOGIES
+# SYNERGY APPS INC
 
-Welcome to the official website for Sinaji Technologies.
+Welcome to the official website for Synergy Apps Inc.
 
-At Sinaji Technologies we deliver the mission critical IT support that move commerce and industries forward. We build technologies, both software and hardware to promote convenience, effectiveness and productivity in commercial and industrial activities.
+At Synergy Apps we deliver mission critical IT support to steer commerce and industry. We build technologies that promote productivity in commercial, industrial, organizational, public and private entities.
 
-Design & Build: [Sinaji Technologies](https://www.aogajoseph.github.io/sinajitechnologies).
+Design & Build: [Synergy Apps Inc.](https://www.aogajoseph.github.io/synergyapps/).
 
 
 
 ## Getting Started
 
-You may [Fork]( https://github.com/aogajoseph/sinajitechnologies.git) the Repository or [Clone]( https://github.com/aogajoseph/sinajitechnologies.git) it. Please leave a star if intrigued! Thanks.
+You may [Fork]( https://github.com/aogajoseph/synergyapps.git) the Repository or [Clone]( https://github.com/aogajoseph/synergyapps.git) it.
 
 
 
@@ -24,7 +24,7 @@ You may [Fork]( https://github.com/aogajoseph/sinajitechnologies.git) the Reposi
 
 ## Deployment
 
-Live at: [www.sinajitechnologies.net]( https://github.com/aogajoseph/sinajitechnologies.git)
+Live at: [synergyapps.com]( https://github.com/aogajoseph/synergyapps.git)
 
 
 
@@ -40,13 +40,13 @@ Live at: [www.sinajitechnologies.net]( https://github.com/aogajoseph/sinajitechn
 
 ## Contribution
 
-Please reach out for contribution guidelines, details on our code of conduct and pull request submission processes.
+Please reach out for contribution guidelines, details on pull request submission and our code of conduct.
 
 
 
 ## Author
 
-**Joseph Aoga**. See more at [www.josephaoga.com](https://aogajoseph.github.io/profolio)
+**Joseph Aoga**. View portfolio at [josephaoga.com](https://aogajoseph.github.io/profolio/)
 
 
 
@@ -58,8 +58,8 @@ This project is licensed under a [Free Site License CC 3.0](LICENSE.md)
 
 ## Acknowledgments
 
-- **Joseph Aoga** - CEO and Founder at Sinaji Technologies.
-- Hat tip to the **Sinaji Technologies** team.
+- **Joseph Aoga** - CEO and Founder at Synergy Apps Inc.
+- Hat tip to the **Synergy Apps** team.
 - **Bootstrap**
 - **Fontawesome**
 - **Google** 
