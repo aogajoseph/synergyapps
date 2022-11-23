@@ -2,9 +2,9 @@
 
 Welcome to the official website for Synergy Apps Inc.
 
-At Synergy Apps we deliver mission critical IT support to steer commerce and industry. We build technologies that promote productivity in commercial, industrial, organizational, public and private entities.
+At Synergy Apps, we deliver mission critical IT support to steer commerce and industry. We provide technologies and consultancy that promote productivity in commercial, industrial, organizational, public and private entities.
 
-Design & Build: [Synergy Apps Inc.](https://www.aogajoseph.github.io/synergyapps/).
+Design & Build: [Synergy Apps Inc](https://www.aogajoseph.github.io/synergyapps/)
 
 
 
