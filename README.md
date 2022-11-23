@@ -4,7 +4,7 @@ Welcome to the official website for Synergy Apps Inc.
 
 At Synergy Apps, we deliver mission critical IT support to steer commerce and industry. We provide technologies and consultancy that promote productivity in commercial, industrial, organizational, public and private entities.
 
-Design & Build: [Synergy Apps Inc](https://www.aogajoseph.github.io/synergyapps/)
+Design & Build: [Synergy Apps Inc](https://aogajoseph.github.io/synergyapps/)
 
 
 
@@ -24,7 +24,7 @@ You may [Fork]( https://github.com/aogajoseph/synergyapps.git) the Repository or
 
 ## Deployment
 
-Live at: [synergyapps.com]( https://github.com/aogajoseph/synergyapps.git)
+Live at: [synergyapps.com](https://aogajoseph.github.io/synergyapps/)
 
 
 
