@@ -5,6 +5,11 @@ License: https://webthemez.com/license
 
 @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap'); 
 @import url('https://fonts.googleapis.com/css?family=Coda+Caption:800&display=swap');
+
+.logo{
+  height: 4.5rem;
+}
+
 .h1, .h2, .h3, .h4, .h5, .h6, .h7,
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.6;
