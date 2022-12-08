@@ -6,8 +6,33 @@ License: https://webthemez.com/license
 @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap'); 
 @import url('https://fonts.googleapis.com/css?family=Coda+Caption:800&display=swap');
 
-.logo{
-  height: 4.5rem;
+.intro {
+
+}
+
+.company-logo {
+  height: 5.5em;
+  width: 5.5em;
+  text-align: right;
+  padding-right: 5px;
+}
+
+.company-name {
+  height: 5.5em;
+  width: 20.5em;
+  padding-top: 13px;
+}
+
+.logo {
+  height: 5.5em;
+  
+}
+
+.name {
+  font-family: "ROBOTO", sans-serif;
+  font-size: 2em;
+  color: black;
+  font-weight: bolder;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, .h7,
@@ -25,7 +50,7 @@ h1, h2{
     font-family: 'Coda Caption', sans-serif;
 }
 .navbar-dark .navbar-brand span{
-    color: #f1ad50 !important; 
+    color: #FFDD43 !important; 
 }
 .bg-primary{
 	color:#fff !important;
@@ -46,9 +71,9 @@ header{
   /* padding: 70px 0 100px; */
 } 
 .navbar .navbar-nav .nav-item .nav-link {
-    color: #080808;
+    color:  black;
     font-size: 0.937rem;
-    font-weight: 600;
+    font-weight: 900;
     padding: 0.625rem 1.25rem;
     border-radius: 50px;
     font-family: 'Rubik', sans-serif;
