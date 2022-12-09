@@ -9,32 +9,25 @@ License: https://webthemez.com/license
 .intro {
 
 }
-
 .company-logo {
   height: 5.5em;
   width: 5.5em;
   text-align: right;
   padding-right: 5px;
 }
-
 .company-name {
   height: 5.5em;
   width: 20.5em;
-  padding-top: 13px;
+  padding-top: 20px;
 }
-
 .logo {
-  height: 5.5em;
-  
+  height: 5.5em; 
 }
-
 .name {
-  font-family: "ROBOTO", sans-serif;
-  font-size: 2em;
-  color: black;
-  font-weight: bolder;
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.5em;
+  color: #e68b0de8;
 }
-
 .h1, .h2, .h3, .h4, .h5, .h6, .h7,
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.6;
@@ -46,7 +39,7 @@ h1, h2{
 }
  
 .navbar-dark .navbar-brand {
-    color: #303030 !important;
+    color: black !important;
     font-family: 'Coda Caption', sans-serif;
 }
 .navbar-dark .navbar-brand span{
@@ -58,8 +51,8 @@ h1, h2{
 }
 .btn-primary{
 	color: #242121 !important;
-	border-color: #f1ad50 !important;
-	background: #f1ad50;
+	border-color: #FFDD43 !important;
+	background: #FFDD43;
 }
 .text-primary{
 	color:#e68b0de8 !important
@@ -71,12 +64,12 @@ header{
   /* padding: 70px 0 100px; */
 } 
 .navbar .navbar-nav .nav-item .nav-link {
-    color:  black;
-    font-size: 0.937rem;
-    font-weight: 900;
+    color: #e68b0de8;
+    font-size: 0.958rem;
+    font-weight: bold;
     padding: 0.625rem 1.25rem;
     border-radius: 50px;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'ROBOTO', sans-serif;
     letter-spacing: 1px;
 }
 ::-moz-selection {
@@ -152,11 +145,11 @@ header{
     max-width: 440px;
 }
   .carousel-indicators li {
-    height: 7px;
+    height: 2px;
     border-radius: 0;
     overflow: hidden;
     width: 52px;
-    background:#f1ad50;
+    background: #e68b0de8;
     padding: 0;
     margin: 0 2px;
     border: 0 solid #333;
@@ -205,7 +198,7 @@ header{
 }
 .navbar-dark .navbar-toggler {
     color: #3c3c3c;
-    border-color: #f1ad50;
+    border-color: #e68b0de8;
 }
 .wt-blockquote-v2::before { 
     color: #f1ad50; 

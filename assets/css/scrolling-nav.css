@@ -47,7 +47,7 @@
     transition: all 1s; 
 }
 .navbar .navbar-nav .nav-item .nav-link.active {
-    background: #dc8e248c !important;
+    background: rgb(80, 77, 77) !important;
     border-radius: 50px;
 }
 .navbar-brand b{
