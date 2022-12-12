@@ -31,9 +31,10 @@ a:hover {
 a:focus {
   outline: none;
 }
-
 p {
   line-height: 1.8;
+  color: black;
+  font-weight: 600;
 }
 
 figure {
@@ -55,7 +56,10 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.6;
   font-weight:600; 
 } 
-
+.h5 {
+  color: black;
+  font-weight: bolder;
+}
 /*------------------------------------
   Highlight Color
 ------------------------------------*/
