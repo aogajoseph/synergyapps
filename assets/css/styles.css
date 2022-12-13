@@ -40,7 +40,16 @@ h1, h2{
 	font-family: 'Rubik', sans-serif;
 	font-family: 'Coda Caption', sans-serif;
 }
- 
+.about-img {
+  display: block;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.centred {
+  text-align: center;
+  font-weight: 600;
+}
 .navbar-dark .navbar-brand {
     color: black !important;
     font-family: 'Coda Caption', sans-serif;
