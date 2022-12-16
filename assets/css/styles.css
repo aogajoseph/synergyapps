@@ -33,6 +33,10 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.6;
   font-weight:600;
 }
+.project-img {
+  height: 20rem;
+  width: 100%;
+}
 h2 {
   color: #e68b0de8;
 }
@@ -50,6 +54,22 @@ h1, h2{
   text-align: center;
   font-weight: 600;
 }
+.project-btns {
+  background-color: #e68b0de8;
+  height: 2.6rem;
+  width: 7.5rem;
+  border: 1px solid white;
+  color: whitesmoke;
+  font-style: italic;
+}
+.project-btns:hover {
+  background-color: transparent;
+  height: 2.6rem;
+  width: 7.5rem;
+  border: 1px solid #e68b0de8;
+  color: #e68b0de8;
+  font-style: italic;
+}  
 .navbar-dark .navbar-brand {
     color: black !important;
     font-family: 'Coda Caption', sans-serif;
@@ -194,7 +214,10 @@ header{
 }
 .card-body h5{
 	font-size:15px;
-	color: #f1ad50;
+	color: #e68b0de8;
+}
+.project-text {
+  color: whitesmoke;
 }
 .card{
 	    border: 3px solid rgba(0, 0, 0, 0.6);
