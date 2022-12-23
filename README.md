@@ -1,8 +1,8 @@
-# SYNERGY APPS INC
+# MWANANGU DEVELOPMENT TANZANIA - MWADETA
 
-Welcome to the official website for Synergy Apps Inc.
+This is the official Mwadeta website.
 
-At Synergy Apps, we deliver mission critical IT support to steer commerce and industry. We provide technologies and consultancy that promote productivity in commercial, industrial, organizational, public and private entities.
+Mwanangu Development Tanzania - Mwadeta, is a learning center in Dar es salaam that aims to improve access to learning and healthcare to children with physical handicap.
 
 Design & Build: [Synergy Apps Inc](https://aogajoseph.github.io/synergyapps/)
 
@@ -10,7 +10,7 @@ Design & Build: [Synergy Apps Inc](https://aogajoseph.github.io/synergyapps/)
 
 ## Getting Started
 
-You may [Fork]( https://github.com/aogajoseph/synergyapps.git) the Repository or [Clone]( https://github.com/aogajoseph/synergyapps.git) it.
+You may [Fork]( https://github.com/aogajoseph/mwadeta.git) the Repository or [Clone]( https://github.com/aogajoseph/mwadeta.git) it.
 
 
 
@@ -24,7 +24,7 @@ You may [Fork]( https://github.com/aogajoseph/synergyapps.git) the Repository or
 
 ## Deployment
 
-Live at: [synergyapps.com](https://aogajoseph.github.io/synergyapps/)
+Live at: [mwadeta.org](https://aogajoseph.github.io/mwadeta/)
 
 
 
@@ -59,8 +59,8 @@ This project is licensed under a [Free Site License CC 3.0](LICENSE.md)
 ## Acknowledgments
 
 - **Joseph Aoga** - CEO and Founder at Synergy Apps Inc.
-- Hat tip to the **Synergy Apps** team.
-- **Bootstrap**
+- Hat tip to the **Synergy Apps Inc** team.
+- **Janet Manoni** - Regional Director, East Africa Child-Help International and Founder at Mwadeta.
 - **Fontawesome**
 - **Google** 
 - **Unsplash**
